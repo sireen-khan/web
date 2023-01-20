@@ -3,16 +3,16 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-<h1 style="color:blue;">A Blue Heading</h1>
+<h1 style="color:lavender;">A Blue Heading</h1>
 
-<p style="color:rose gold;">A rose gold paragraph.</p>
+<p style="color:lavender blush;">A rose gold paragraph.</p>
 <!DOCTYPE html>
 <html>
 <head>
 <style>
 body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: rose gold;}
+h1   {color: lavender;}
+p    {color: lavender blush;}
 </style>
 </head>
 
