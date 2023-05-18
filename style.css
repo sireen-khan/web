@@ -8,3 +8,17 @@ body {
 
 </body>
 </html>
+    body {
+  background-color: Maroon;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Papyrus;
+  font-size: 20px;
+}
+    
