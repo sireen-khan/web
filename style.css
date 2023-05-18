@@ -2,42 +2,9 @@ body {
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
-}
-<h1 style="color:PowderBlue;">A Blue Heading</h1>
-
-<p style="color:lavender blush;">A rose gold paragraph.</p>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: PowderBlue;}
-p    {color: lavender blush;}
-</style>
-</head>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 {
-  color: PowderBlue;
-  font-Awesome: FortAwesome(cursive);
-  font-size: 300%;
-}
-p {
-  color: lavender blush;
-  font-family: courier;
-  font-size: 160%;
-}
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1 style="color:Navy;">Hello World</h1>
+<p style="color:SteelBlue;">Lorem ipsum...</p>
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
 
 </body>
 </html>
