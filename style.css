@@ -19,5 +19,11 @@ h3 {
   font-family: Monaco; 
   font-size: 23px;
 }
+
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
 </body>
     
