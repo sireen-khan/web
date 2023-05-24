@@ -20,6 +20,11 @@ h3 {
   font-size: 23px;
 }
 
+h5 {
+  color: GhostWhite;
+  font-family: Monaco;
+  font-size: 21.5px;
+
 #borderimg {
   border: 10px solid transparent;
   padding: 15px;
