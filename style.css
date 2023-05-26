@@ -55,5 +55,18 @@ h4 {
 #topNav a:hover {
   color: lime;
 }
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid White;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
 </body>
     
