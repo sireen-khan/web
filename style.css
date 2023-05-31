@@ -60,6 +60,10 @@ h4 {
     display: flex;
 }
 
+.logo {
+  width: 100%;
+}
+
 .flex-child {
     flex: 1;
     border: 2px solid White;
