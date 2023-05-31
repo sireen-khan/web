@@ -60,9 +60,8 @@ h4 {
     display: flex;
 }
 
-.logo {
-  width: 100%;
-}
+
+
 
 .flex-child {
     flex: 1;
@@ -73,4 +72,8 @@ h4 {
     margin-right: 20px;
 } 
 </body>
+
+.logo {
+  width: 75%;
+}
     
